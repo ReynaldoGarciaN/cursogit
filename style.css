@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ h1{
+     margin: 0 0 0 8px;
+ }
+
+ .bar{
+     background-color: rgb(20, 89, 218);
+     padding: 0cm;
+ }
